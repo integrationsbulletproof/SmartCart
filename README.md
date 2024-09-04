@@ -1,2 +1,2 @@
 # SmartCart
-BulletProof Samrt Cart integration examples
+BulletProof Smart Cart integration examples
