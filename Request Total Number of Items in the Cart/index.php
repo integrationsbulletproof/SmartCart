@@ -1,5 +1,5 @@
 <?php
-// replace the next line with the Cart Link provided in the Smart Cart General Features
+// replace the next line with the Cart Link provided in the Smart Cart Checkout Features
 // The link can be used via Javascript or redirect on any server language (this example is based on PHP but you can use Python, Node, C# or your preferred programming language)
 // where UNIQUE_ID is the public merchant unique identifier 
 // In this example the add to cart link is received via URL, you can copy the link from the Smart Cart Product List
